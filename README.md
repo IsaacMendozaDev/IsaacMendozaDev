@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Isaac Mendoza!👋</h1>
 
-### <p align="center">I'm a self-taught programming lover🧑‍🎓, focused on web development🎨🌐 but <br>always curious and motivated to keep expanding my skills in other areas, like the AI. :)</p><br>
+### <p align="center">I'm a self-taught programming lover🧑‍🎓, focused on web development🎨🌐 but <br>always curious and motivated to keep expanding my skills in other areas, like the AI. :)</p>
 <p align="center"><img src="https://i.pinimg.com/564x/fe/36/d9/fe36d97a7fea4c8bd03c8fd61bde315e.jpg" width="300"></p>
 
 ## Certifications and Experiences 🏅
