@@ -5,8 +5,8 @@
 
 ## Certifications and Experiences 🏅
 ### freeCodeCamp
-- [**Certification in Responsive Web design**](https://www.freecodecamp.org/certification/Gmon3467/responsive-web-design)
-- [**Certification in JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/Gmon3467/responsive-web-design)
+- [**Certification in Responsive Web design**](https://www.freecodecamp.org/certification/IsaacMendozaDev/responsive-web-design)
+- [**Certification in JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/IsaacMendozaDev/javascript-algorithms-and-data-structures-v8)
 
 ## On working...👷‍♂️⛏️
 - React
