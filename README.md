@@ -4,7 +4,9 @@
 <p align="center"><img src="https://i.pinimg.com/564x/fe/36/d9/fe36d97a7fea4c8bd03c8fd61bde315e.jpg" width="300"></p>
 
 ## Certifications and Experiences 🏅
-- [**Certification in Responsive Web design by freeCodeCamp**](https://www.freecodecamp.org/certification/Gmon3467/responsive-web-design)
+### freeCodeCamp
+- [**Certification in Responsive Web design**](https://www.freecodecamp.org/certification/Gmon3467/responsive-web-design)
+- [**Certification in JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/Gmon3467/responsive-web-design)
 
 ## On working...👷‍♂️⛏️
 - React
@@ -25,6 +27,7 @@
 </p>
 
 ## Tools 🔧
-<p align="center">
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="120">
-</p>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="120">
+</div>
